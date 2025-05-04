@@ -1,2 +1,2 @@
 # post-http
- Send data post
+ Automate SQL injection basic
