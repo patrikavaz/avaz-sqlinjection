@@ -13,7 +13,7 @@ header = {
     'Content-Type': 'application/x-www-form-urlencoded',
     'User-Agent' : 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'
 }
-with open('FILE_TEXT.txt','r') as file:
+with open('text.txt','r') as file:
     
     for i in file:
         
